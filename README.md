@@ -153,8 +153,6 @@ The delivery framework I use to take a business problem from discovery to produc
 
 **🏥 [Candor](https://github.com/mukeshdachapallyai-sudo/candor)** — Built at the DeepStation × Google AI Hackathon (Miami, 2025). A medical document analysis platform using Gemini 1.5, OpenFDA APIs, and HIPAA Safe Harbor de-identification. Next.js 14 + FastAPI + Supabase. Deployed to Vercel. → [Live App](https://candor-health.vercel.app) · [View MVP & Prototypes](https://github.com/mukeshdachapallyai-sudo/candor/tree/main/prototypes)
 
-**🤖 JobTailor** — Browser-based job application tool generating tailored resumes, cover letters, and keyword analysis from job descriptions using Claude AI.
-
 ---
 
 ## Let's Connect
