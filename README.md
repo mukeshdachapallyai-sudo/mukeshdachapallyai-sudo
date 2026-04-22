@@ -1,4 +1,4 @@
-# Hi, I'm Mukesh Dachepally 👋
+# Hi, I'm Mukesh Dachapally 👋
 
 **Senior Data Solutions Engineer · BI & Analytics Delivery Leader**
 Fort Lauderdale, FL · 10+ years across aviation, healthcare, retail & manufacturing, and technology consulting
