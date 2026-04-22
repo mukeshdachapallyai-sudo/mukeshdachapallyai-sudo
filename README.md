@@ -82,7 +82,7 @@ The delivery framework I use to take a business problem from discovery to produc
 
 ## Beyond the Day Job
 
-**🏥 [Candor](https://github.com/mukeshdachapallyai-sudo/candor)** — Built at the DeepStation × Google AI Hackathon (Miami, 2025). A medical document analysis app using Gemini 1.5, OpenFDA APIs, and HIPAA Safe Harbor de-identification. Next.js 14 + FastAPI + Supabase. Deployed to Vercel. → [View MVP & Prototypes](https://github.com/mukeshdachapallyai-sudo/candor/tree/main/prototypes)
+**🏥 [Candor](https://github.com/mukeshdachapallyai-sudo/candor)** — Built at the DeepStation × Google AI Hackathon (Miami, 2025). A medical document analysis app using Gemini 1.5, OpenFDA APIs, and HIPAA Safe Harbor de-identification. Next.js 14 + FastAPI + Supabase. → [Live App](https://candor-health.vercel.app) · [View MVP & Prototypes](https://github.com/mukeshdachapallyai-sudo/candor/tree/main/prototypes)
 ---
 
 ## Let's Connect
